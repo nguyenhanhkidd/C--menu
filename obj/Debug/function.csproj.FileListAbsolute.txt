@@ -1,0 +1,7 @@
+D:\Project\Code\SE07201\SE07201\function\bin\Debug\function.exe.config
+D:\Project\Code\SE07201\SE07201\function\bin\Debug\function.exe
+D:\Project\Code\SE07201\SE07201\function\bin\Debug\function.pdb
+D:\Project\Code\SE07201\SE07201\function\obj\Debug\function.csproj.AssemblyReference.cache
+D:\Project\Code\SE07201\SE07201\function\obj\Debug\function.csproj.CoreCompileInputs.cache
+D:\Project\Code\SE07201\SE07201\function\obj\Debug\function.exe
+D:\Project\Code\SE07201\SE07201\function\obj\Debug\function.pdb
